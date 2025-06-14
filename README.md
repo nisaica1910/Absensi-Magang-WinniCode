@@ -1,9 +1,13 @@
-1. Sebagai User/Pegawai 
-Url : http://localhost/absensi/
-Email  : swidodo.com@gmail.com 
-Password  : user12345
+Cara membuka project absensi :
+1. download project dan simpan dalam folder C:\xampp\htdocs\absensi-main
+2. Buat database baru di phpMyAdmin lalu import database (absensi_v3_lokasi)
+3. Jalankan di browser dengan url pada local milik anda.
 
-3. Sebagai Admin 
-Url  : http://localhost/sw-admin 
-Username : Widodo 
+1.] Sebagai User/Pegawai 
+Url : http://localhost/absensi-main/
+Login dengan google 
+
+2.] Sebagai Admin 
+Url  : http://localhost/absensi-main/sw-admin/login/
+Username : ica
 Password : admin123 
