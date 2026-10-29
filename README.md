@@ -6,8 +6,3 @@ Cara membuka project absensi :
 1.] Sebagai User/Pegawai 
 Url : http://localhost/absensi-main/
 Login dengan google 
-
-2.] Sebagai Admin 
-Url  : http://localhost/absensi-main/sw-admin/login/
-Username : ica
-Password : admin123 
